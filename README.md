@@ -3,7 +3,7 @@
 
 This package is a toolkit (multiple def functions) for executing basic process related to initial steps on Natural Language Processing. It's aimed for portuguese BR language usage.
 
-**Portuguese version available on: *[pre-processing-text-basic-tools-br](https://pypi.org/project/pre-processing-text-basic-tools-br/)***
+**Portuguese version available on: *[pre_processing_text_basic_tools_br](https://github.com/IgorCaetano/pre_processing_text_basic_tools_br)***
 
 ## Functionalities
 
