@@ -30,7 +30,7 @@ pip install pre-processing-text-basic-tools
 ```python
 from pre_processing_text_basic_tools import removeSpecialCharacters
 
-text = "Is this an exa@mple of $text? with special# character.s. I want to clean it!!!"
+text = "This is an exa@mple of $text? with special# character.s. I want to clean it!!!"
 
 cleaned_text = removeSpecialCharacters(text)
 
