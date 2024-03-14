@@ -243,14 +243,11 @@ print(tokenization)
 
 
 
-## Authors
+## 😁 Authors
 
 - [@IgorCaetano](https://github.com/IgorCaetano)
 
 
-## Used by
+## 🤝 Used by
 
-This project is used in the text pre-processing stage in the **WOKE** project of the Grupo de Estudos e Pesquisa em IA e História ("Study and Research Group on AI and History") at UFSC ("Federal University of Santa Catarina"):
-
-- [WOKE - UFSC](https://github.com/iaehistoriaUFSC/Repositorio_UFSC)
-
+- This project is used in the text pre-processing stage in the **[WOKE](https://github.com/iaehistoriaUFSC/Repositorio_UFSC)** project of the Grupo de Estudos e Pesquisa em IA e História ("Study and Research Group on AI and History") at UFSC ("Federal University of Santa Catarina").
