@@ -3,11 +3,15 @@
 
 This package is a toolkit (multiple def functions) for executing basic process related to initial steps on Natural Language Processing. It's aimed for portuguese BR language usage.
 
-**Portuguese version available on:**
-- [Pypi package](https://pypi.org/project/pre-processing-text-basic-tools-br/)
-- [GitHub repository](https://github.com/IgorCaetano/pre_processing_text_basic_tools_br)
+<details>
+  <summary><b>Portuguese version  <i>(click to expand)</i></b></summary>
+  <br><ul>
+  <li><i><a href="https://pypi.org/project/pre-processing-text-basic-tools-br/">Pypi package portuguese version</a></i></li>
+  <li><i><a href="https://github.com/IgorCaetano/pre_processing_text_basic_tools_br">GitHub repository portuguese version</a></i></li></ul>
+</details>
 
-## Functionalities
+
+## 🤩 Functionalities
 
 - Cleaning text;
 - Text analysis;
@@ -15,7 +19,7 @@ This package is a toolkit (multiple def functions) for executing basic process r
 - Easy integration with other Python programs by importing the desired module(s) or function.
 
 
-## Installation
+## 📦 Installation
 
 This package is installed using the command "*pip install*"
 
@@ -23,7 +27,7 @@ This package is installed using the command "*pip install*"
 pip install pre-processing-text-basic-tools
 ```
 
-## Usage/Examples
+## 📜 Usage/Examples
 
 ### Removing simple special characters
 
